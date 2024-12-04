@@ -63,7 +63,7 @@ Desarrollar una skill para Alexa para poder acceder al clima mediante la ubicaci
 ![Captura de pantalla 2024-12-04 125235](https://github.com/user-attachments/assets/fd703107-189c-4474-8bf7-e9754040fcab)
 
 
-![image](https://github.com/user-attachments/assets/fd703107-189c-4474-8bf7-e9754040fcab)
+
 
 
 
